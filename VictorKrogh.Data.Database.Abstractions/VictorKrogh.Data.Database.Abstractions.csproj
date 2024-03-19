@@ -21,4 +21,8 @@
 		<PackageProjectUrl>https://github.com/VictorKroghDotNet/VictorKrogh.Data.Database.Abstractions</PackageProjectUrl>
 	</PropertyGroup>
 
+	<ItemGroup>
+	  <PackageReference Include="VictorKrogh.Data.Abstractions" Version="8.0.1" />
+	</ItemGroup>
+
 </Project>
