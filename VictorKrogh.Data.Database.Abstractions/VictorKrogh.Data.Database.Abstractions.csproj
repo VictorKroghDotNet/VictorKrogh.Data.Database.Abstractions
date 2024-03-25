@@ -22,7 +22,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="VictorKrogh.Data.Abstractions" Version="8.0.1" />
+	  <PackageReference Include="VictorKrogh.Data.Abstractions" Version="8.0.4" />
 	</ItemGroup>
 
 </Project>
